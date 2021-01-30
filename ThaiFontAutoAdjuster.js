@@ -4,6 +4,7 @@
 /*:
  * @target MZ
  * @plugindesc ปรับตัวอักษรภาษาไทยไปตามยถากรรม
+ * License: MIT License
  * @author XthemeCore
  *
  * @help ThaiFontAutoAdjuster.js
